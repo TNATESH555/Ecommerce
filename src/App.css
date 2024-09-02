@@ -1,0 +1,209 @@
+.image{width: 100%;
+  float: left;
+  padding: 40px;
+  margin-left: 20px;
+  height: 50px;
+  width: 50px;
+  margin-bottom: 60px;}
+  
+  .cart{
+  display: grid;
+  margin: 50px;
+  grid-template-columns: 1fr 1fr 1fr 1fr ;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  width: 100px;
+  height: 100px;
+  margin-top: 5px;
+ 
+  }  
+
+  .Productprice{
+    margin-left:80px;
+    margin-top: -5px;
+  }
+  
+  .Producttitle{
+    margin-left: 60px;
+  }
+  
+  .Productadd{
+    margin-left: 80px;
+    width: 90px;
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: rgb(255, 216, 20);
+    color: black;
+  }
+  
+  .image{
+    width: 150px;
+    height: 150px;
+  }
+  
+  .nav{
+    color :rgb(23, 24, 24);
+   background-color: rgb(19, 25, 33);
+   height: 70px;
+   background-color: rgb(35, 31,32);
+   
+  }
+  
+  .nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+.image:hover{
+    width: 200px;
+    height:200px;
+    z-index: 5;
+  }
+  
+  .footer{
+    background-color: rgb(19, 25, 33);
+    margin-top: 3020px;
+    height: 200px;
+    color: white;
+  }
+  
+  .ReadMoreButton{color: black;}
+  
+  .body.cart{
+    height: 650px;
+    background-color: rgb(234, 237, 237);
+    margin-top: -50px;
+  }
+
+  .productDetail.body{
+    height: 650px;
+    background-color: rgb(234, 237, 237);
+    margin-top: -50px;
+  }
+
+  .productDetail{
+   
+   margin-top: 120px;
+   margin-left: 25px;
+   margin-right: 25px;
+
+  }
+
+  .productDetail{
+    height: 450px;
+    background-color: aliceblue;
+    padding-top: 50px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
+  }
+
+  .productDetailbuttonadd{
+    background-color:rgb(255, 216, 20);
+    border-radius: 5px;
+    margin: 20px;
+    margin-top: -20px;
+    width: 100px;
+    height: 25px;
+    margin-left: 450px;
+  }
+  
+  .productDetailbuttonRemove{
+    background-color: rgb(255, 164, 28);
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+    
+  }
+
+  .productDetailImage{margin-left: 100px; margin-top: 20px; }
+
+  .checkout{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    background-color: rgb(255, 164, 28);
+    border-radius: 5px;
+    color:black;
+    font-weight: bolder;
+    margin-left:860px;
+    height: 30px;
+    width: 100px;
+  }
+
+  .price{margin-left: 740px;
+  margin-top: -50px;}
+
+  .emptyicon{
+    margin-left: -40px;
+    height: 350px;
+    width: 350px;
+  }
+
+  .copy{
+    padding-top: 140px;
+  }
+
+  .cartpro{
+  padding: 20px;
+margin:50px;
+margin-top: 190px;
+box-shadow: 5px;
+border-radius: 10px;
+box-shadow: 0px 2px 2px 2px rgba(0, 0, 0, 0.3);}
+
+.amazonicon{
+  height: 35px;
+  width:35px;
+  margin-left: 16.55px;
+  position: relative;
+  top: 14px;
+  right: 0.8px;
+  
+}
+.carts{
+  margin-top:-80px;
+}
+
+.cartHeading{
+ 
+    text-decoration-line: underline;
+    text-decoration-color: #0e0e0e; 
+    text-decoration-thickness: 2px; 
+  
+}
+
+.cart-button {
+    background-color: rgb(35, 31, 32);
+    color: white;
+    border: none;
+    padding: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    height: 45px;width: 100px;
+    position: relative;
+    top: 8px;
+}
+
+.cart-button:hover {
+ border: 1px solid whitesmoke;
+}
+
+.cart-icon {
+    width: 40px;
+    height: 50px;
+    margin-right: 10px;
+    fill: white;
+}
+
+.Cartbut{
+
+  margin-left: 1200px;
+  margin-top:-55px ;
+}
+
+.cartname{
+  text-decoration: none;
+}
